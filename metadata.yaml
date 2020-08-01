@@ -1,0 +1,32 @@
+_repo: A-vindication-of-the-rights-of-men-in-a-letter-to-the-Right-Honourable-Edmund-Burke-occasione__62757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Godwin, Mary Wollstonecraft
+    - Cresswick, Mr.
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Causes'
+- !lcsh 'Human rights'
+- !lcsh 'Liberty'
+- !lcsh 'Burke, Edmund, 1729-1797. Reflections on the revolution in France'
+- !lcc 'JC'
+- GITenberg
+title: A vindication of the rights of men, in a letter to the Right Honourable Edmund
+  Burke; occasioned by his Reflections on the Revolution in France
+url: http://www.gutenberg.org/ebooks/62757
